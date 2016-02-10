@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Servers" uuid="1b6d7a12-f3f2-40e6-b901-35f1a3b17d9c">
+      <secret-storage>master_key</secret-storage>
+    </data-source>
+  </component>
+</project>

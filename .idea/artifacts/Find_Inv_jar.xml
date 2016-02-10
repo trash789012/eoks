@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Find_Inv:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Find_Inv_jar</output-path>
+    <root id="archive" name="Find_Inv.jar">
+      <element id="module-output" name="Find_Inv" />
+    </root>
+  </artifact>
+</component>
